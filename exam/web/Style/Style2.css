@@ -1,0 +1,31 @@
+body{
+	background-image: url('../Img/fon2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+h1{
+	font-family: Arial;
+	font-weight: 700;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 24pt;
+}
+.wrapper{
+	display: flex;
+}
+.Var1{
+	float: left;
+	margin-left: 50px;
+}
+p{
+	width: 300px;
+	max-height: 250px;
+	border: 5px solid red;
+	outline: 5px solid yellow;
+	padding: 5px;
+	background: purple;
+	margin-left: 50px;
+	font-size: 24px;
+	clear: both;
+	
+}
